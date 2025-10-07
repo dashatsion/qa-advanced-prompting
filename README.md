@@ -19,6 +19,15 @@ This repository hosts a practical **QA Prompt Library** focused on automation wo
 - `examples/` — copy‑paste friendly examples (Cypress focused).
 - `.github/ISSUE_TEMPLATE` — quick templates for requests/feedback.
 
+## 🧪 Live examples
+
+Explore examples directly:
+- [Cypress Login Example](examples/cypress-login-example.md)
+- [Playwright Login Example](examples/playwright-login-example.md)
+- [API Testing Examples](examples/api-testing-examples.md)
+
+> Each prompt can be copied into ChatGPT, Claude, or Gemini to generate similar outputs.
+  
 ## 🧠 Why this exists
 Prompt engineering is becoming a **core QA skill**. These prompts are structured, repeatable, and designed to fit into CI/CD and code review flows — not just one‑off chats.
 
