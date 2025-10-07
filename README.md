@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="assets/hero.png" alt="QA Advanced Prompting hero" width="100%"/>
-</p>
-
-<p align="center">
-  <em>Maintained by <strong>Dasha Tsion</strong></em>
-</p>
 <img width="1600" height="900" alt="hero" src="https://github.com/user-attachments/assets/e775df7f-aa20-46c5-9bf9-a29ca94694ed" />
 
 
