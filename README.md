@@ -3,8 +3,11 @@
 </p>
 
 <p align="center">
-  <em>Maintained by <strong>YOUR NAME</strong> — QA Lead</em>
+  <em>Maintained by <strong>Dasha Tsion</strong></em>
 </p>
+<img width="1600" height="900" alt="hero" src="https://github.com/user-attachments/assets/e775df7f-aa20-46c5-9bf9-a29ca94694ed" />
+
+
 
 # QA Advanced Prompting
 **Turning AI into a testing partner for Automation QA.**
