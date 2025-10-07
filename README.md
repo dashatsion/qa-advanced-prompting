@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/dashatsion/qa-advanced-prompting/stargazers"><img src="https://img.shields.io/github/stars/dashatsion/qa-advanced-prompting?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/dashatsion/qa-advanced-prompting/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+  <a href="https://www.ministryoftesting.com/"><img src="https://img.shields.io/badge/MoT-community-blueviolet.svg" alt="MoT"></a>
+</p>
 
 <img width="1600" height="900" alt="hero" src="https://github.com/user-attachments/assets/b6cca961-651c-425c-bf47-487773179987" />
 
