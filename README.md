@@ -36,6 +36,3 @@ MIT — see [LICENSE](LICENSE).
 
 
 ---
-
-### 🔗 Social preview
-Use `assets/social-preview.png` as the GitHub social preview image (Repo Settings → Social preview).
